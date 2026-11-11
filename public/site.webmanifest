@@ -1,0 +1,30 @@
+{
+  "name": "Deadlock Hacks",
+  "short_name": "Deadlock",
+  "description": "Deadlock hacks and cheats research for PC, plus support notes and secure checkout links.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0614",
+  "theme_color": "#0a0614",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png?v=7",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/brand/brand-logo-512.webp?v=10",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32.png?v=7",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}

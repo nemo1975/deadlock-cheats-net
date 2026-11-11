@@ -1,0 +1,407 @@
+{
+  "sharedGoodToKnow": "Deadlock et les fiches produit peuvent changer. Lisez la fiche à jour sur {siteDomain} avant paiement ; cette page n’affirme pas la compatibilité ni l’état actuels.",
+  "sharedLimitations": "Les logiciels tiers peuvent comporter des risques pour le compte ou la plateforme. Ce site ne promet ni sécurité, ni résistance à la détection, ni compatibilité, ni disponibilité, ni un résultat précis pour le compte.",
+  "acquisitionSteps": [
+    {
+      "num": "01",
+      "title": "Lire les détails produit actuels",
+      "desc": "Lisez la fiche avant paiement et après toute mise à jour de Deadlock ou du produit."
+    },
+    {
+      "num": "02",
+      "title": "Choisir le bon produit",
+      "desc": "Choisissez Deadlock Hacks ou un utilitaire séparé seulement après avoir lu son périmètre et ses limites. Ne traitez pas des produits différents comme interchangeables."
+    },
+    {
+      "num": "03",
+      "title": "Contacter l’équipe",
+      "desc": "Écrivez au support avec l’e-mail de commande prêt si vous devez confirmer disponibilité, configuration Windows ou détails de paiement."
+    },
+    {
+      "num": "04",
+      "title": "Suivre la configuration indiquée",
+      "desc": "Après paiement, suivez uniquement la documentation actuelle. Demandez au support de préciser toute installation, compatibilité ou disponibilité manquante."
+    }
+  ],
+  "systemRequirements": [
+    "Confirmez les exigences listées avant achat.",
+    "Confirmez avec le support l’applicabilité à Deadlock et l’état du produit."
+  ],
+  "gallery": [
+    {
+      "alt": "Capture Deadlock avec des superpositions rouges de joueurs dans une carte intérieure.",
+      "caption": "ESP, intérieur",
+      "captionDesc": "Capture fournie par le titulaire. Libellés et couleurs sont un contexte visuel, pas une preuve des fonctions ou du patch actuels."
+    },
+    {
+      "alt": "Capture Deadlock avec des cadres de joueurs et des distances dans une rue.",
+      "caption": "Cadres ESP, rue",
+      "captionDesc": "Capture fournie par le titulaire. Les cadres sont un contexte visuel ; confirmez les options actuelles sur la fiche."
+    },
+    {
+      "alt": "Capture Deadlock avec un contour de joueur mis en avant dans un hall intérieur.",
+      "caption": "ESP, hall",
+      "captionDesc": "Capture fournie par le titulaire. Un contour ne prouve pas le vischeck, la compatibilité ni la sécurité du compte."
+    },
+    {
+      "alt": "Capture Deadlock avec des cadres de joueurs au-dessus de la rue Uptown.",
+      "caption": "Cadres ESP, Uptown",
+      "captionDesc": "Capture fournie par le titulaire. Distances et cadres viennent de la capture fournie."
+    },
+    {
+      "alt": "Menu cheat Deadlock sur l’onglet Misc, avec options de config et statut cloud.",
+      "caption": "Menu Misc",
+      "captionDesc": "Capture de menu fournie par le titulaire. Config et cloud n’établissent ni sécurité, ni compatibilité, ni résultat de compte."
+    }
+  ],
+  "tiers": {
+    "elite": {
+      "about": [
+        {
+          "type": "p",
+          "text": "Deadlock Hacks est le produit spécifique au jeu fourni. Cette page enregistre les conditions de plan confirmées et renvoie à la fiche à jour pour toute fonction, mode, compatibilité ou disponibilité."
+        },
+        {
+          "type": "h2",
+          "text": "À confirmer avant le paiement"
+        },
+        {
+          "type": "p",
+          "text": "Demandez au support si le produit s’applique actuellement à Deadlock, quelles plateformes ou modes sont couverts, quelles exigences s’appliquent et ce qu’inclut le plan choisi. Ce site n’infère pas ces réponses depuis un modèle hérité."
+        }
+      ],
+      "body": [
+        {
+          "type": "h2",
+          "text": "Plans et paiement"
+        },
+        {
+          "type": "p",
+          "text": "L’accès mensuel coûte 35 $ pour 30 jours. L’accès à vie coûte 150 $. Le bouton d’achat conserve le plan choisi via la redirection sécurisée. Confirmez livraison, support et couverture « à vie » avec le support avant paiement."
+        },
+        {
+          "type": "h2",
+          "text": "Compatibilité et risque"
+        },
+        {
+          "type": "p",
+          "text": "Deadlock, les règles plateforme et les informations sur les produits tiers peuvent changer. Cette page ne promet pas compatibilité, indétection, autorisation ou absence de conséquences pour le compte."
+        }
+      ],
+      "overview": {
+        "title": "Deadlock Hacks : plan et fiche",
+        "paragraphs": [
+          "Deadlock Hacks est le produit spécifique au jeu fourni. Les conditions commerciales confirmées sont 35 $ pour 30 jours ou 150 $ à vie, le plan choisi étant conservé dans la redirection de paiement.",
+          "Aucune preuve fournisseur n’a été fournie pour des fonctionnalités précises, modes pris en charge, exigences, disponibilité ou compatibilité. Vérifiez directement avec le support avant paiement."
+        ]
+      },
+      "goodToKnow": "Deadlock et les fiches produit peuvent changer. Lisez la fiche à jour sur {siteDomain} avant paiement ; cette page n’affirme pas la compatibilité ni l’état actuels.",
+      "limitations": "Les logiciels tiers peuvent comporter des risques pour le compte ou la plateforme. Ce site ne promet ni sécurité, ni résistance à la détection, ni compatibilité, ni disponibilité, ni un résultat précis pour le compte.",
+      "acquisitionTitle": "Comment obtenir Deadlock Hacks"
+    }
+  },
+  "utilities": {
+    "hwid-spoofer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Produit séparé avec questions de périmètre non résolues"
+        },
+        {
+          "type": "p",
+          "text": "HWID Spoofer n’est pas présenté comme solution à un problème Deadlock précis. Les informations fournies confirment la destination de paiement et les tarifs, pas le périmètre matériel actuel, l’applicabilité au jeu, les environnements pris en charge ni les résultats."
+        },
+        {
+          "type": "h2",
+          "text": "Ce que cette page n’affiche pas"
+        },
+        {
+          "type": "p",
+          "text": "Cette page n’affiche pas de couverture anti-triche, de modification d’identifiants matériels, de suppression de traces, de conformité aux règles ni qu’une mesure sur le compte puisse être annulée ou évitée. Demandez des détails vérifiables au support avant achat."
+        },
+        {
+          "type": "h2",
+          "text": "Conditions des plans"
+        },
+        {
+          "type": "p",
+          "text": "L’accès mensuel coûte 50 $ pour 30 jours ; l’accès à vie coûte 150 $. Le libellé « lifetime » ne définit pas à lui seul mises à jour futures, maintenance, disponibilité ou droits de support."
+        },
+        {
+          "type": "h2",
+          "text": "Les exigences doivent être confirmées"
+        },
+        {
+          "type": "p",
+          "text": "Aucune exigence n’a été fournie pour ce produit. Ne vous fiez pas à d’anciens textes d’autres jeux ni à des conseils Windows génériques ; demandez au support les exigences actuelles et l’applicabilité à Deadlock."
+        }
+      ],
+      "overview": {
+        "title": "HWID Spoofer : périmètre à confirmer avec le support",
+        "paragraphs": [
+          "HWID Spoofer est un utilitaire séparé. Aucun fait fournisseur n’a été fourni sur l’applicabilité à Deadlock, le périmètre des fonctions, le matériel pris en charge ou les exigences.",
+          "Les conditions confirmées sont 50 $ pour 30 jours et 150 $ à vie. Il n’est pas présenté comme solution garantie pour une restriction de compte, d’appareil ou de partie."
+        ]
+      },
+      "goodToKnow": "Exécutez le changement d’identifiants et le nettoyage dans l’ordre du guide du portail avant d’ouvrir le jeu qui a levé le indicateur matériel. Relisez les notes anti-triche sur la bannière d’état avant paiement.",
+      "limitations": "Ce produit concerne les indicateurs d’ID matérielle. Une sanction de compte toujours active le reste. Le spoof peut entrer en conflit avec les conditions de l’éditeur et entraîner de nouvelles sanctions. Une mise à jour fournisseur peut faire disparaître une note anti-triche listée sans préavis sur cette page.",
+      "acquisitionTitle": "Commande de cette licence HWID",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Vérifier le périmètre actuel",
+          "desc": "Aucune preuve d’applicabilité à Deadlock, d’exigences matérielles ou d’environnement pris en charge pour HWID Spoofer. Demandez des détails écrits actuels au support avant achat."
+        },
+        {
+          "num": "02",
+          "title": "Choisir un plan indiqué",
+          "desc": "Mensuel : 50 $ pour 30 jours. À vie : 150 $. Confirmez avec le support ce que recouvre « lifetime » ; le prix seul ne définit pas mises à jour ni support futur."
+        },
+        {
+          "num": "03",
+          "title": "Confirmer les exigences d’abord",
+          "desc": "N’assumez pas que les exigences Windows, matériel ou plateforme d’un autre produit s’appliquent ici. Obtenez les exigences actuelles auprès du support."
+        },
+        {
+          "num": "04",
+          "title": "Utiliser la documentation produit",
+          "desc": "Suivez uniquement la documentation actuelle si vous continuez. Cette page ne promet aucun résultat pour le compte, l’appareil ou une session Deadlock."
+        }
+      ],
+      "systemRequirements": [
+        "Demandez au support les exigences système d’exploitation actuelles.",
+        "Confirmez les paramètres de sécurité requis avec le support.",
+        "Confirmez matériel pris en charge et exigences d’installation.",
+        "Confirmez livraison et connectivité actuelles avec le support."
+      ],
+      "gallery": [
+        {
+          "alt": "Fenêtre Device listant DISK, MOBO, Display, UUID, GPU et Network comme modifiés ou inchangés.",
+          "caption": "Lignes de contrôle des séries",
+          "captionDesc": "Après un cycle de spoof, chaque ligne indique si cette valeur matérielle a changé."
+        },
+        {
+          "alt": "Fenêtre Device avec Permanent Spoof, spoof GPU activé, ethernet désactivé et champ seed.",
+          "caption": "Contrôles firmware",
+          "captionDesc": "Depuis cet écran firmware vous pouvez activer le spoof GPU ou ethernet, saisir un seed et appliquer un changement permanent."
+        }
+      ]
+    },
+    "ugc": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "UGC est un produit d’appel de compte"
+        },
+        {
+          "type": "p",
+          "text": "UGC signifie Unban & Governance Control. Le périmètre confirmé est les appels de compte. Il n’est pas décrit ici comme outil d’ID matérielle, contournement des contrôles plateforme ni promesse de réussite d’appel."
+        },
+        {
+          "type": "h2",
+          "text": "La plateforme décide du résultat"
+        },
+        {
+          "type": "p",
+          "text": "Le processus et le revueur de la plateforme décident chaque cas. Conservez avis, dates et dossiers pertinents. Aucun retour de compte, aucune annulation ni résultat spécifique à Deadlock n’est garanti."
+        },
+        {
+          "type": "h2",
+          "text": "Plans et exigences"
+        },
+        {
+          "type": "p",
+          "text": "UGC coûte 35 $ pour 30 jours ou 150 $ à vie. Les données fournies n’incluent pas d’exigences techniques ni de promesse de service à vie définie ; confirmez les deux avec le support avant paiement."
+        }
+      ],
+      "overview": {
+        "title": "UGC : contexte d’appel et plans",
+        "paragraphs": [
+          "UGC signifie Unban & Governance Control. C’est un produit d’appel de compte et n’est pas présenté comme produit d’ID matérielle ni contournement des contrôles plateforme.",
+          "La plateforme décide chaque cas. L’accès mensuel coûte 35 $ pour 30 jours et l’accès à vie 150 $ ; aucun plan ne garantit rétablissement ni service futur défini."
+        ]
+      },
+      "goodToKnow": "Rassemblez preuve de propriété du compte et une chronologie claire avant les dépôts. Le revueur de la plateforme a le dernier mot sur chaque appel.",
+      "limitations": "Aucun résultat n’est promis. Une suspension permanente peut rester. UGC ne modifie pas les ID matériels et ne contourne pas les contrôles de sécurité. Une preuve faible affaiblit le dossier.",
+      "acquisitionTitle": "Démarrage de la licence UGC",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Comprendre le rôle d’UGC",
+          "desc": "UGC signifie Unban & Governance Control. C’est un produit d’appel de compte, pas un produit d’ID matérielle ni un diagnostic d’une restriction précise."
+        },
+        {
+          "num": "02",
+          "title": "Choisir un plan indiqué",
+          "desc": "Mensuel : 35 $ pour 30 jours. À vie : 150 $. Confirmez les conditions de plan actuelles avant paiement."
+        },
+        {
+          "num": "03",
+          "title": "Préparer des dossiers fiables",
+          "desc": "Conservez l’avis de compte, les dates et la documentation demandée par la plateforme ou le support. Les données fournies n’établissent pas d’exigence logicielle."
+        },
+        {
+          "num": "04",
+          "title": "Confirmer le processus d’appel",
+          "desc": "La plateforme compétente décide de chaque cas. UGC n’est pas présenté comme garantie de rétablissement ni contournement des contrôles."
+        }
+      ],
+      "systemRequirements": [
+        "Confirmez les exigences techniques actuelles avec le support.",
+        "Gardez la documentation de compte demandée pour un appel.",
+        "Confirmez le processus de commande actuel avant achat."
+      ],
+      "gallery": [
+        {
+          "alt": "Marque produit UGC : engrenage cramoisi, cadran d’horloge et lignes de vitesse.",
+          "caption": "Marque UGC",
+          "captionDesc": "La marque tient lieu de bibliothèque de modèles et d’exécuteurs de litiges pour profils limités."
+        }
+      ]
+    },
+    "cloud-dma": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Cloud DMA est un produit séparé"
+        },
+        {
+          "type": "p",
+          "text": "Cloud DMA n’est pas inclus avec Deadlock Hacks. Les données fournies confirment seulement la destination de paiement et les tarifs, pas la fonction ni l’applicabilité à Deadlock."
+        },
+        {
+          "type": "h2",
+          "text": "Aucune exigence fournie"
+        },
+        {
+          "type": "p",
+          "text": "Aucune référence fournisseur n’établit système d’exploitation, matériel, virtualisation, dépendances ou séquence d’installation. Demandez des exigences écrites actuelles au support avant paiement."
+        },
+        {
+          "type": "h2",
+          "text": "Pas de compatibilité ni de sécurité implicites"
+        },
+        {
+          "type": "p",
+          "text": "Cette page n’affiche pas que Cloud DMA fonctionne avec Deadlock, contourne l’anti-triche, évite des mesures sur le compte ou produit un résultat précis. Confirmez les détails actuels avec le support avant achat."
+        }
+      ],
+      "overview": {
+        "title": "Cloud DMA : exigences à confirmer avant paiement",
+        "paragraphs": [
+          "Cloud DMA est listé séparément de Deadlock Hacks. Aucune référence fournisseur n’établit fonction technique, exigences ou applicabilité à Deadlock.",
+          "Les plans indiqués sont 35 $ pour 30 jours ou 150 $ à vie. Vérifiez le paiement et les exigences actuelles avant achat ; aucune compatibilité ni résultat pour le compte n’est promis ici."
+        ]
+      },
+      "goodToKnow": "Cloud DMA est un produit séparé. Aucune référence Cloud DMA ni preuve d’applicabilité à Deadlock ; demandez les détails actuels avant achat.",
+      "limitations": "Cette page n’établit pas fonction, exigences, compatibilité, disponibilité, contournement anti-triche, sécurité ni résultat pour le compte.",
+      "acquisitionTitle": "Avant la configuration Cloud DMA",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Demander les exigences actuelles",
+          "desc": "Aucune référence Cloud DMA ni preuve d’applicabilité à Deadlock. Demandez au support les exigences écrites actuelles avant paiement."
+        },
+        {
+          "num": "02",
+          "title": "Choisir une durée",
+          "desc": "Accès mensuel : 35 $ pour 30 jours. Accès à vie : 150 $. Confirmez les conditions de paiement actuelles et ce que couvre l’accès à vie avant achat."
+        },
+        {
+          "num": "03",
+          "title": "Ne pas déduire une installation",
+          "desc": "Ce site n’indique pas plateforme, version Windows, virtualisation ni matériel pour Cloud DMA. Utilisez uniquement la documentation produit actuelle."
+        },
+        {
+          "num": "04",
+          "title": "Suivre les instructions actuelles",
+          "desc": "Cloud DMA n’est pas présenté ici comme garantie de compatibilité, d’accès ou de conformité aux règles. Consultez la documentation à jour avant de continuer."
+        }
+      ],
+      "systemRequirements": [
+        "Aucune exigence de système d’exploitation fournie.",
+        "Aucune exigence matérielle ou de configuration fournie.",
+        "Demandez livraison et connectivité actuelles au support."
+      ],
+      "gallery": [
+        {
+          "alt": "Illustration conceptuelle d’infrastructure cloud violette au-dessus d’un ordinateur de bureau.",
+          "caption": "Illustration conceptuelle Cloud DMA",
+          "captionDesc": "Illustration d’infrastructure générée par IA ; pas d’écran produit ni preuve de fonctionnalité."
+        }
+      ]
+    },
+    "skin-changer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Skin Changer est un produit séparé"
+        },
+        {
+          "type": "p",
+          "text": "Skin Changer n’est pas inclus avec Deadlock Hacks. Les données fournies confirment la destination de paiement et les tarifs, pas quelles cosmétique il couvre ni s’il s’applique actuellement à Deadlock."
+        },
+        {
+          "type": "h2",
+          "text": "Aucun inventaire cosmétique fourni"
+        },
+        {
+          "type": "p",
+          "text": "Cette page ne liste pas de skins, héros, armes ni d’option de visibilité. Demandez au support quels articles, le cas échéant, figurent dans le produit actuel avant de payer."
+        },
+        {
+          "type": "h2",
+          "text": "Pas de compatibilité ni de sécurité implicites"
+        },
+        {
+          "type": "p",
+          "text": "Cette page n’affirme pas que Skin Changer fonctionne avec Deadlock, contourne l’anti-triche, reste caché des autres joueurs ou évite des mesures sur le compte. Confirmez les détails actuels avec le support avant achat."
+        }
+      ],
+      "overview": {
+        "title": "Skin Changer : portée à confirmer avant paiement",
+        "paragraphs": [
+          "Skin Changer est listé séparément de Deadlock Hacks. Aucune référence fournisseur n’établit quelles cosmétique il couvre, les exigences techniques ou l’applicabilité à Deadlock.",
+          "Les plans indiqués sont 35 $ pour 30 jours ou 150 $ à vie. Vérifiez le paiement et la portée actuelle avant achat ; aucune compatibilité ni résultat pour le compte n’est promis ici."
+        ]
+      },
+      "goodToKnow": "Skin Changer est un produit séparé. Aucune preuve de cosmétique Deadlock, de visibilité ou de compatibilité ; demandez les détails actuels avant achat.",
+      "limitations": "Cette page n’établit pas fonction Skin Changer, liste cosmétique, visibilité pour les autres joueurs, compatibilité, disponibilité, contournement anti-triche, sécurité ni résultat pour le compte.",
+      "acquisitionTitle": "Avant la configuration Skin Changer",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Demander la portée actuelle",
+          "desc": "Aucune référence Skin Changer ni preuve d’applicabilité à Deadlock. Demandez au support quelles cosmétique, le cas échéant, sont actuellement listées avant paiement."
+        },
+        {
+          "num": "02",
+          "title": "Choisir une durée",
+          "desc": "Accès mensuel : 35 $ pour 30 jours. Accès à vie : 150 $. Confirmez les conditions de paiement actuelles et ce que couvre l’accès à vie avant achat."
+        },
+        {
+          "num": "03",
+          "title": "Ne pas déduire une liste cosmétique",
+          "desc": "Ce site ne nomme pas de skins, héros, armes ni de réglage de visibilité. Utilisez uniquement la documentation produit actuelle."
+        },
+        {
+          "num": "04",
+          "title": "Suivre les instructions actuelles",
+          "desc": "Skin Changer n’est pas présenté ici comme garantie de compatibilité, de visibilité pour les autres joueurs ou de conformité aux règles. Consultez la documentation à jour avant de continuer."
+        }
+      ],
+      "systemRequirements": [
+        "Aucune exigence de système d’exploitation fournie.",
+        "Aucune exigence matérielle ou de configuration fournie.",
+        "Demandez livraison et connectivité actuelles au support."
+      ],
+      "gallery": [
+        {
+          "alt": "Marque du produit Skin Changer : un bouclier étiqueté Skin Changer avec des armes croisées.",
+          "caption": "Marque Skin Changer",
+          "captionDesc": "Visuel de marque pour le listing Skin Changer. Ce n’est pas une capture Deadlock ni une preuve de skins, héros ou compatibilité actuels."
+        }
+      ]
+    }
+  }
+}

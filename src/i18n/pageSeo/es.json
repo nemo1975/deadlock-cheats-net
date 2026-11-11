@@ -1,0 +1,58 @@
+{
+  "/": {
+    "title": "Deadlock Hacks | Aimbot, ESP y cheats PC",
+    "description": "Compare hacks de Deadlock para PC: aimbot, ESP, radar y loader privado con planes mensuales o de por vida."
+  },
+  "/cheats/": {
+    "title": "Cheats Deadlock para PC | Aimbot y ESP",
+    "description": "Revise cheats de Deadlock para PC, con aimbot, ESP, souls y planes del loader privado antes de pagar."
+  },
+  "/hwid-spoofer/": {
+    "title": "HWID Spoofer Deadlock | Utilidad hardware",
+    "description": "Revise el HWID Spoofer para Deadlock: precios, alcance de hardware y preguntas a confirmar con soporte."
+  },
+  "/products/": {
+    "title": "Productos cheat Deadlock | Comparar",
+    "description": "Compare Deadlock Hacks, HWID Spoofer, UGC, Cloud DMA y Skin Changer: planes, propósito y dudas antes de comprar."
+  },
+  "/ugc/": {
+    "title": "Apelaciones de cuenta Deadlock | UGC",
+    "description": "UGC organiza registros de apelación en Deadlock. No garantiza una decisión de Valve. Opciones en {siteDomain}."
+  },
+  "/cloud-dma/": {
+    "title": "Cheat DMA Deadlock | Cloud DMA",
+    "description": "Revise Cloud DMA para Deadlock: requisitos, hardware y aplicabilidad a confirmar con soporte."
+  },
+  "/skin-changer/": {
+    "title": "Skin Changer Deadlock | Utilidad cosmética",
+    "description": "Revise Skin Changer: planes, cosmética, visibilidad y aplicabilidad a Deadlock a confirmar con soporte."
+  },
+  "/blog/": {
+    "title": "Guías de cheats Deadlock | Aimbot y ESP",
+    "description": "Guías de cheats Deadlock sobre aimbot, ESP, estado del loader, HWID y research antes del checkout."
+  },
+  "/forum/": {
+    "title": "Foro de cheats Deadlock | Preguntas",
+    "description": "Archivo editorial de Deadlock sobre aimbot, ESP, UGC, HWID, Cloud DMA y soporte. Solo lectura."
+  },
+  "/faq/": {
+    "title": "FAQ cheats Deadlock | Planes y PC",
+    "description": "FAQ de cheats Deadlock: planes, descarga, UGC, HWID, Cloud DMA, riesgos y checkout."
+  },
+  "/terms/": {
+    "title": "Condiciones de venta | Deadlock Hacks",
+    "description": "Las ventas son finales tras el pago. Licencias, reembolsos y riesgos de cuenta en {siteDomain}."
+  },
+  "/privacy/": {
+    "title": "Privacidad | Datos de Deadlock Hacks",
+    "description": "Qué recopila {siteDomain} en analítica, qué cookies usa y cuánto guarda un ticket de soporte."
+  },
+  "/about/": {
+    "title": "Acerca de Deadlock Hacks | Notas",
+    "description": "{siteName} publica research de productos Deadlock, soporte y enlaces de pago en {siteDomain}."
+  },
+  "/support/": {
+    "title": "Soporte Deadlock | Pedidos y ayuda",
+    "description": "Abra soporte de cheats Deadlock para pedidos o producto. Confirme requisitos e incluya solo datos pedidos."
+  }
+}
